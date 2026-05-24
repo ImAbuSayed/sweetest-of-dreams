@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweetest-of-dreams/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Sweetest Of Dreams](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetest-of-dreams/) |
+| **Get License** | [Secure Licensing Rights for Sweetest Of Dreams](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetest-of-dreams/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `45000e95e1f802ce2a0f5a67089d4f7dbf671ea92175023e1769936ca95e7f0a` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
