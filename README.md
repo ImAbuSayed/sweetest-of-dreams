@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweetest-of-dreams/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Sweetest Of Dreams](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetest-of-dreams/) |
+| **Get License** | [Request Licensing for Sweetest Of Dreams](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetest-of-dreams/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Take my hand in the midnight glow
+> Where the shadows melt and the whiskey flows
+> I want to pull you close and take it slow
+> You are the only truth I need to know
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
